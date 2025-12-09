@@ -3,7 +3,7 @@ package day_1;
 import java.util.Scanner;
 
 //A. Soldier and Bananas
-public class problem1 {
+public class Soldier_and_Bananas {
     public static void main(String[] args ) {
         Scanner in = new Scanner(System.in);
         
