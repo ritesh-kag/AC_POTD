@@ -13,3 +13,9 @@ class Solution {
             }
     }
 }
+//using kadane's algorithm
+/* Numbers: [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+
+step 1. Add numbers one by one
+step 2. If your running sum drops below 0 → reset to 0 (start new subarray)
+step 3. Remember the highest sum you ever get*/
